@@ -1,10 +1,10 @@
 # CoinFlip: A Decentralized Coin Flip Game
 
-CoinFlip is a cutting-edge decentralized game built on blockchain technology, offering users the thrill of wagering tokens in a coin flip for a chance to double their winnings. The game supports multiple blockchains, including Ethereum, Polygon, Solana, and Bitcoin, utilizing their respective testnets/devnets for a seamless experience.
+CoinFlip is a cutting-edge decentralized game built on blockchain technology, offering users the thrill of wagering tokens in a coin flip for a chance to double their winnings. The game supports multiple blockchains, including Ethereum, Polygon, Solana, and Bitcoin.
 
 ## 🎮 Live Demo
 
-Experience the excitement live: [CoinFlip Game]()
+Experience the excitement live: [CoinFlip Game](https://coinflip-blue-two.vercel.app/)
 
 ## 🚀 Features
 
@@ -55,4 +55,4 @@ Experience the excitement live: [CoinFlip Game]()
 
 ## 📞 Contact
 
-For any inquiries or issues, feel free to reach out to [Manimegalai K](mailto:iam.manimegalai25@gmail.com).
+If you have any questions or issues, please contact [Manimegalai K](mailto:iam.manimegalai25@gmail.com).
